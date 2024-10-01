@@ -1,0 +1,16 @@
+.central{
+    background-color: rgba(134, 66, 176, 0.402);
+}
+
+.cabeçalho{
+    background-color: rgba(168, 93, 234, 0.658);
+    padding: 10px;
+    margin: 0%;
+}
+footer{
+    background-color: rgba(168, 93, 234, 0.658);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    margin: 0%;
+    text-align: center;
+}
